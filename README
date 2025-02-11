@@ -1,0 +1,5 @@
+
+运行build_arm64.sh，编译arm64-v8a架构的luajit静态库【ndk需要支持clang】
+
+android/arm64-v8a目录下是已经编译出的文件
+
